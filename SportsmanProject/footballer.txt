@@ -1,0 +1,5 @@
+Babarica Chindia forward height = 180 and weight = 70.0
+Vrema Flacara defender height = 180 and weight = 80.0
+Strujy Ceahlaul goalkeeper height = 185 and weight = 90.0
+Lipan Steaua forward height = 190 and weight = 90.0
+Iulica Rapid midfielder height = 170 and weight = 63.0
